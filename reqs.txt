@@ -1,0 +1,14 @@
+pypiwin32
+logging
+pandas
+subprocess.run
+chess
+stockfish
+numpy
+python-docx
+pypandoc
+pathlib
+colorama
+pillow
+imagehash
+cairosvg
